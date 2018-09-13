@@ -1,0 +1,28 @@
+_repo: Gourmet_51597
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Allen Kim
+    birthdate: 1928
+    gutenberg_agent_id: '26584'
+    url: http://www.gutenberg.org/2009/agents/26584
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space flight to Mars -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Cooks -- Fiction'
+- GITenberg
+title: Gourmet
+url: http://www.gutenberg.org/ebooks/51597
