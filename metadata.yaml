@@ -1,5 +1,8 @@
 _repo: Gourmet_51597
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51597-h/images/cover.jpg
 creator:
   author:
     agent_name: Lang, Allen Kim
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '26584'
     url: http://www.gutenberg.org/2009/agents/26584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51597#Gourmet
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-29'
 gutenberg_type: Text
